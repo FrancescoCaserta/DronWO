@@ -1,3 +1,5 @@
+#DronWO: Towards Drones as Writable Surfaces
+
 ## 🛩️ Human-Drone Interaction with Crazyflie 2.1
 
 This project explores a novel **Human-Drone Interaction paradigm** developed as part of my thesis at **Politecnico di Milano** in collaboration with the **[NESLab](https://www.neslab.it/)**, under the supervision of **Prof. Luca Mottola**.
@@ -18,4 +20,3 @@ This project explores a novel **Human-Drone Interaction paradigm** developed as 
 ---
 
 Feel free to explore, fork, or reach out if you're working on similar research in **human-robot interaction**, **embedded systems**, or **intuitive robotics** 🤖
-# DronWO
