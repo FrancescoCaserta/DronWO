@@ -1,4 +1,4 @@
-#DronWO: Towards Drones as Writable Surfaces
+# DronWO: Towards Drones as Writable Surfaces
 
 ## 🛩️ Human-Drone Interaction with Crazyflie 2.1
 
